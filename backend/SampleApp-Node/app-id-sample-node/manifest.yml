@@ -1,0 +1,3 @@
+applications:
+- name: AppIDw7-node-30ec2b95-b304-4939-a8d1-63f9b279fa79
+  memory: 256M
